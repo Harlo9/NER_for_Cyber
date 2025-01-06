@@ -55,17 +55,12 @@ git clone https://github.com/laymiling/NER-For-Cyber.git
 cd NER-For-Cyber
 ```
 
-3. Run the training script:
+3. Run & test the script:
 
 ```bash
-python train.py
+python project_notebook.ipynb
 ```
 
-4. Test the NER model:
-
-```bash
-python predict.py --text "Enter your cybersecurity text here."
-```
 
 ---
 
