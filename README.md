@@ -89,4 +89,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ### Stay Connected 🌐
 
-For any questions or discussions, reach out to us at [email@example.com](mailto:ksithami@gmail.com) or connect on [LinkedIn]([https://www.linkedin.com/in/britney-hong-3a8731228/])([https://www.linkedin.com/in/si-thami-khaif-652a53220/]).
+For any questions or discussions, reach out to us at [ksithami@gmail.com](mailto:email@example.com) or connect on [LinkedIn]([https://www.linkedin.com/in/britney-hong-3a8731228/])([https://www.linkedin.com/in/si-thami-khaif-652a53220/]).
